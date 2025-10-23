@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Temporary / backup files
+*.log
+*.tmp
+
+# Node modules (if you ever install npm packages later)
+node_modules/
+
+# Local environment configs (if you ever use .env files)
+.env
